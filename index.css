@@ -5,3 +5,18 @@ h4 {
 i {
 	margin: 1rem;
 }
+.code-source {
+	color: rgb(0, 119, 255);
+	font-size: 1.2em;
+}
+.code-source:hover {
+	color: rgb(0, 204, 255);
+	transition: color 0.25s ease-in-out;
+}
+a {
+	border-bottom: none !important;
+	text-decoration: none !important;
+}
+#main-page {
+	padding-bottom: 4.9em;
+}
